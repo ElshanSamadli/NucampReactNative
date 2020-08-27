@@ -12,8 +12,7 @@ class Reservation extends Component {
         this.state = {
             campers: 1,
             hikeIn: false,
-            date: '',
-            // showModal: false
+            date: ''     // showModal: false
         };
     }
 
